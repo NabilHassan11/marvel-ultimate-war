@@ -203,9 +203,4 @@ public class Game {
 
 		}
 	}
-	public static void main(String[] args) throws Exception{
-		//loadAbilities("C:\\Users\\User\\Downloads\\Telegram Desktop\\Abilities.csv");
-		//loadChampions("C:\\Users\\User\\Downloads\\Telegram Desktop\\Champions.csv");
-
-	}
 }
